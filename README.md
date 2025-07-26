@@ -1,1 +1,190 @@
-# Keamanan-dan-Perlindungan-data
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Keamanan & Perlindungan Data</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="background-gradient">
+    <div class="floating-shapes"></div>
+
+    <!-- Header Utama -->
+    <header class="main-header fade-in">
+      <h1>Keamanan & Perlindungan Data</h1>
+    </header>
+    <!-- Box Kontainer Utama -->
+    <main class="box-section">
+      <div class="info-box fade-in"> 
+        <h2>Pengertian Keamanan Data</h2>
+        <p>Keamanan dan perlindungan data adalah aspek krusial dalam dunia digital yang berfokus pada menjaga informasi agar tetap aman dan digunakan sesuai izin. Keamanan data mencakup langkah-langkah teknis seperti enkripsi, firewall, dan autentikasi pengguna untuk mencegah akses yang tidak sah dan serangan cyber. Perlindungan data lebih menekankan kebijakan dan regulasi, seperti undang-undang privasi dan hak individu atas data mereka, memastikan bahwa informasi tidak disalahgunakan atau disebarluaskan tanpa izin.</p>
+      </div>
+      
+      <div class="info-box fade-in">
+        <h2>Fungsi Keamanan dan Perlindungan Data Bagi Rekam Medis</h2>
+        <p>Fungsi keamanan dan perlindungan data bagi rekam medis sangat penting untuk menjaga kerahasiaan, integritas, dan ketersediaan informasi pasien. Berikut adalah beberapa fungsi utama:</p>
+      <div class="sub-container">
+    <!-- security-item ... -->
+      <div class="security-item">
+        <h3>a. 🛡️ Kerahasiaan</h3>
+        <p>Enkripsi data dan pembatasan akses hanya untuk personel berwenang.</p>
+      </div>
+      <div class="security-item">
+        <h3>b. ✅ Integritas</h3>
+        <p>Pencatatan aktivitas (audit trail) dan validasi data agar tidak dimodifikasi sembarangan.</p>
+      </div>
+      <div class="security-item">
+        <h3>c. 📂 Ketersediaan</h3>
+        <p>Backup berkala dan pemulihan cepat untuk memastikan data siap diakses.</p>
+      </div>
+      <div class="security-item">
+        <h3>d. 📜 Kepatuhan Hukum</h3>
+        <p>Mematuhi regulasi seperti HIPAA & UU PDP serta pelatihan staf medis secara berkala.</p>
+      </div>
+      <div class="security-item">
+        <h3>e. 🔐 Pencegahan Kebocoran</h3>
+      <p>Firewall, antivirus, dan monitoring sistem real-time untuk mencegah ancaman eksternal.</p>
+    </div>
+  </div>
+  </div>
+</div>
+
+      <div class="info-box fade-in">
+        <h2>Tantangan Perlindungan Data Bagi Pengguna Rekam Medis Elektronik</h2>
+        <p>Tantangan Keamanan dan Perlindungan Data pada Rekam Medis Elektronik</p>
+      <div class="sub-container">
+    <!-- challenge-item ... -->
+      <div class="challenge-item">
+        <h3>a. 🚨 Pelanggaran Data</h3>
+        <p>Ransomware dan phishing mengancam privasi pasien serta reputasi institusi.</p>
+      </div>
+      <div class="challenge-item">
+        <h3>b. 👥 Kesadaran Karyawan</h3>
+        <p>Kurangnya pelatihan dapat membuka celah keamanan melalui kesalahan manusia.</p>
+      </div>
+      <div class="challenge-item">
+        <h3>c. ⚖️ Kepatuhan Regulasi</h3>
+        <p>Regulasi seperti GDPR mewajibkan standar pengelolaan data yang ketat dan rinci.</p>
+      </div>
+      <div class="challenge-item">
+        <h3>d. 🔄 Integrasi Sistem</h3>
+        <p>Sistem yang tidak sinkron bisa membuat celah akses tak terkontrol.</p>
+      </div>
+      <div class="challenge-item">
+        <h3>e. 💸 Keterbatasan Sumber Daya</h3>
+        <p>Fasilitas kecil kesulitan menghadirkan teknologi dan tenaga profesional keamanan digital.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="info-box fade-in">
+  <h2>Solusi</h2>
+  <p>Solusi Untuk Meningkatkan Keamanan dan Perlindungan Data RME</p>
+  <div class="sub-container">
+    <!-- solution-item ... -->
+  <div class="solution-item">
+    <h3>a. 🔒 Teknologi Keamanan</h3>
+    <p>Implementasi enkripsi, firewall, dan deteksi intrusi di seluruh sistem.</p>
+  </div>
+  <div class="solution-item">
+    <h3>b. 📚 Pelatihan Karyawan</h3>
+    <p>Pendidikan berkala tentang ancaman siber dan praktik perlindungan data.</p>
+  </div>
+  <div class="solution-item">
+    <h3>c. 👁️ Audit & Monitoring</h3>
+    <p>Pemantauan aktivitas sistem dan evaluasi berkala terhadap kebijakan yang ada.</p>
+  </div>
+  <div class="solution-item">
+    <h3>d. 📑 Kepatuhan Regulasi</h3>
+    <p>Penilaian risiko rutin dan kebijakan internal untuk mematuhi hukum.</p>
+  </div>
+  <div class="solution-item">
+    <h3>e. 🔗 Integrasi Aman</h3>
+    <p>Platform kesehatan yang terhubung dengan pengendalian akses berbasis peran.</p>
+  </div>
+  <div class="solution-item">
+    <h3>f. 🛠️ Rencana Darurat</h3>
+    <p>Strategi pemulihan cepat saat pelanggaran terjadi, termasuk pelaporan dan peringatan.</p>
+  </div>
+</div>
+  </div>
+</div>
+
+      </div>
+      <div class="info-box fade-in">
+        <h2>Kesimpulan</h2>
+        <ul type="none" style="text-justify: auto;" >
+          <li>Keamanan dan perlindungan data merupakan aspek yang sangat penting dalam pengelolaan rekam medis elektronik (RME). Dengan meningkatnya ancaman terhadap data medis, institusi kesehatan harus mengambil langkah-langkah proaktif untuk melindungi informasi pasien. Fungsi utama dari keamanan dan perlindungan data, seperti menjaga kerahasiaan, integritas, dan ketersediaan informasi, sangat krusial untuk memastikan bahwa data pasien tetap aman dan dapat diakses dengan cepat saat dibutuhkan.</li>
+          <li>Namun, tantangan yang dihadapi dalam menjaga keamanan data RME tidak dapat diabaikan. Pelanggaran data, kurangnya kesadaran karyawan, kepatuhan terhadap regulasi, integrasi sistem yang tidak sinkron, dan keterbatasan sumber daya adalah beberapa masalah yang harus diatasi. Untuk mengatasi tantangan ini, institusi kesehatan perlu menerapkan solusi yang efektif, termasuk teknologi keamanan yang canggih, pelatihan karyawan yang berkelanjutan, audit dan pemantauan rutin, serta kepatuhan terhadap regulasi yang berlaku.</li>
+          <li>Dengan mengadopsi pendekatan yang komprehensif dan terintegrasi, organisasi kesehatan dapat menciptakan lingkungan yang aman bagi pasien dan melindungi data medis yang sensitif. Keamanan data bukan hanya tanggung jawab departemen TI, tetapi merupakan tanggung jawab bersama di seluruh organisasi. Dengan demikian, upaya untuk meningkatkan keamanan dan perlindungan data RME akan berkontribusi pada kepercayaan pasien, reputasi institusi, dan keberlanjutan layanan kesehatan di era digital ini.</li>
+        </ul>
+      </div>
+    </main>
+
+  <div class="quiz-box">
+    <p>🔐 Data medis hanya boleh diakses oleh siapa?</p>
+      <button onclick="checkAnswer(this, 'a')">A. Semua staf rumah sakit</button>
+      <button onclick="checkAnswer(this, 'b')">B. Staf berwenang</button>
+  <div id="feedback" class="feedback-text"></div>
+  </div>
+
+<script>
+  function checkAnswer(button, answer) {
+    const feedback = document.getElementById('feedback');
+    const buttons = button.parentNode.querySelectorAll('button');
+
+    buttons.forEach(btn => btn.disabled = true); // Disable setelah dijawab
+    button.style.border = '2px solid #333';
+
+    if (answer === 'b') {
+      button.style.backgroundColor = '#c4fbc2';
+      feedback.textContent = '✅ Tepat! Hanya staf berwenang yang boleh mengakses data medis.';
+      feedback.style.color = '#2d7a2d';
+    } else {
+      button.style.backgroundColor = '#ffd1d1';
+      feedback.textContent = '❌ Salah. Hanya staf berwenang yang diizinkan mengakses data medis.';
+      feedback.style.color = '#a32828';
+    }
+  }
+</script>
+
+    <div id="tentang-editor" class="info-box fade-in editor-box">
+        <h2>Tentang Editor</h2>
+        <p>Website ini dirancang oleh seorang pengembang web yang fokus pada edukasi digital dan keamanan data kesehatan. Menggabungkan CSS animatif, layout responsif, dan visual storytelling untuk meningkatkan literasi informasi medis.</p>
+        <div class="editor-gallery">
+    <div class="editor-card">
+      <img src="citra.jpg"/>
+        <a href="https://www.instagram.com/this_citra?igsh=MTZreHk5bmEyeG9wdQ==" target="_blank">Citra Rahayu Duran</a>
+        <p>13462.23.008</p>
+    </div>
+    <div class="editor-card">
+        <img src="juwii.jpg" />
+        <a href="https://www.facebook.com/share/1DLDSV2Wmr/?mibextid=wwXIfr" target="_blank">Juwita Mooduto</a>
+        <p>13462.23.025</p>
+    </div>
+    <div class="editor-card">
+        <img src="Ilan.jpg"/>
+        <a href="https://wa.me/6282241968614" target="_blank">Reskilan Mulane</a>
+        <p>13462.23.053</p>
+    </div>
+    <div class="editor-card">
+        <img src="wafaa.jpg"/>
+        <a href="https://www.instagram.com/this_citra?igsh=MTZreHk5bmEyeG9wdQ==" target="_blank">Wafa Delila Eyato</a>
+        <p>13462.23.075</p>
+    </div>
+    </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="fade-in">
+      <nav class="nav-links fade-in">
+            <a href="https://wa.me/qr/JJZRAUJR35Q7H1" target="_blank">📞WhatsApp</a>
+            <a href="#tentang-editor">🧑‍💻 Tentang Editor</a>
+        </nav>
+      <p>&copy; 2025 Informasi Edukasi Kesehatan</p>
+    </footer>
+  </div>
+</body>
+</html>
